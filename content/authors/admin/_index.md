@@ -55,38 +55,18 @@ skills:
         icon: python
         icon_pack: fab
       - name: Linux Shell/Shell Scripting
-      description: ''
-      percent: 95
-      icon: terminal
-      icon_pack: fab
-      - name: Angular/.Net/Postman
-        description: ''
-        percent: 85
-        icon: code
-        icon_pack: fas
-      - name: Java/C+
-        description: ''
-        percent: 80
-        icon: file-code
-        icon_pack: fas
-      - name: Matlab/R Studio
-        description: ''
-        percent: 80
-        icon: codepen
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-hiking
-        icon_pack: fas
-      - name: Swimming
         description: ''
         percent: 90
-        icon: person-swimming
+        icon: terminal
+        icon_pack: fas
+      - name: Angular/.Net/Postman
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Dogs/Cats
+        description: 'Dogs > Cats'
+        percent: 100
+        icon: dog
         icon_pack: fas
       - name: Jazz
         description: ''
@@ -95,7 +75,6 @@ skills:
         icon_pack: fas
 
 # Social/Academic Networking
-	@@ -93,28 +91,29 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
@@ -126,5 +105,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 Mahdi Boulila is a doctoral student of electrical and computer engineering at the Brown University's Scale Lab. His research interests include super-resolution, large language models, adaptive machine learning, and quantization.
 {style="text-align: justify;"}
