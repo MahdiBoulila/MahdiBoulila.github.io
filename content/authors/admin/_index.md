@@ -51,18 +51,28 @@ skills:
     items:
       - name: Python/Pytorch/TensorFlow
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Linux Shell/Shell Scripting
+      description: ''
+      percent: 95
+      icon: terminal
+      icon_pack: fab
+      - name: Angular/.Net/Postman
         description: ''
-        percent: 90
-        icon: chart-line
+        percent: 85
+        icon: code
         icon_pack: fas
-      - name: SQL
+      - name: Java/C+
         description: ''
-        percent: 40
-        icon: database
+        percent: 80
+        icon: file-code
+        icon_pack: fas
+      - name: Matlab/R Studio
+        description: ''
+        percent: 80
+        icon: codepen
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -70,13 +80,13 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
-      - name: Dogs/Cats
-        description: 'Dogs > Cats'
-        percent: 100
-        icon: dog
+      - name: Swimming
+        description: ''
+        percent: 90
+        icon: person-swimming
         icon_pack: fas
       - name: Jazz
         description: ''
@@ -85,9 +95,7 @@ skills:
         icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+	@@ -93,28 +91,29 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
@@ -118,6 +126,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mahdi Boulila is a doctoral student of electrical and computer engineering at the Brown University's Scale Lab. His research interests include super-resolution, large language models, adaptive machine learning, and quantization.
 {style="text-align: justify;"}
