@@ -1,64 +1,62 @@
 ---
 # Display name
-title: 吳健雄
+title: Mahdi Boulila
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: مهدي 
+last_name: بوليله 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎯
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Ph.D. Candidate in Electrical and Computer Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Brown University
+    url: https://www.brown.edu/
+  - name: Scalable Energy-Efficient Computing Systems Laboratory
+    url: https://scale-lab.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, large language models, and hardware software co-design optimization.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Human-Computer Interaction
+  - Augmented Reality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in ECE
+      institution: Brown University
+      year: 2028
+    - course: B.A. in Mathematics and Computer Science
+      institution: Clark University
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python/Pytorch/TensorFlow
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -75,15 +73,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Dogs/Cats
+        description: 'Dogs > Cats'
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Jazz
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,28 +91,29 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mahdi_boulila@brown.edu'
+
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/boulila_mahdi
     display:
       header: true
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=bgJoBXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MahdiBoulila/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mahdi-boulila/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
